@@ -1828,3 +1828,7 @@ Sky Sphere
 [2021.11.01-07.49.09:922][617]LogSavePackage: Moving '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersionDemo/Saved/LousyFirefighter_Section03_Insid62C37FBD4532A83A5B7183AB39600D72.tmp' to '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersionDemo/Content/VRImmersion/Maps/LousyFirefighter_Section03_InsideHDB.umap'
 [2021.11.01-07.49.09:941][617]AssetCheck: New page: Asset Save: LousyFirefighter_Section03_InsideHDB
 [2021.11.01-07.49.09:941][617]LogContentValidation: Display: Validating World /Game/VRImmersion/Maps/LousyFirefighter_Section03_InsideHDB.LousyFirefighter_Section03_InsideHDB
+[2021.11.01-07.59.10:259][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.11.01-07.59.10:283][159]LogSavePackage: Moving '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersionDemo/Saved/LousyFirefighter_Persistent_Auto42A2C2EF4241475F01E737A338494C17.tmp' to '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersionDemo/Saved/Autosaves/Game/VRImmersion/Maps/LousyFirefighter_Persistent_Auto1.umap'
+[2021.11.01-07.59.10:285][159]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRImmersion/Maps/LousyFirefighter_Persistent' took 0.042
+[2021.11.01-07.59.10:285][159]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
