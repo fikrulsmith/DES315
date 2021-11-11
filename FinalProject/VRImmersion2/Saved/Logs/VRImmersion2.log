@@ -1148,3 +1148,114 @@ Sky Sphere
 [2021.11.11-06.51.27:689][863]LogSavePackage: Moving '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Saved/VRTestingSection36CD010D44F29C15C7A1038452DC9C29.tmp' to '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Content/VRImmersion/Maps/VRTestingSection.umap'
 [2021.11.11-06.51.27:700][863]AssetCheck: New page: Asset Save: VRTestingSection
 [2021.11.11-06.51.27:700][863]LogContentValidation: Display: Validating World /Game/VRImmersion/Maps/VRTestingSection.VRTestingSection
+[2021.11.11-06.53.00:248][194]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.11.11-06.53.06:265][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.11-06.53.06:265][740]PIE: New page: PIE session: LousyFirefighter_PERSISTENT (Nov 11, 2021, 10:53:06 PM)
+[2021.11.11-06.53.06:266][740]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.11-06.53.06:268][740]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.11-06.53.06:268][740]LogPlayLevel: Creating play world package: /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT
+[2021.11.11-06.53.06:276][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008342s)
+[2021.11.11-06.53.06:278][740]LogAIModule: Creating AISystem for world LousyFirefighter_PERSISTENT
+[2021.11.11-06.53.06:278][740]LogPlayLevel: PIE: World Init took: (0.001851s)
+[2021.11.11-06.53.06:278][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT to /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT (0.010330s)
+[2021.11.11-06.53.06:285][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.11.11-06.53.06:287][740]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.11-06.53.06:287][740]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.11-06.53.06:287][740]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.11-06.53.06:287][740]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.11-06.53.06:287][740]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.11-06.53.06:287][740]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.11-06.53.06:287][740]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.11-06.53.06:287][740]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.11-06.53.06:287][740]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.11-06.53.06:288][740]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.11-06.53.06:288][740]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.11-06.53.06:288][740]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.11-06.53.06:288][740]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.11-06.53.06:294][740]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.11-06.53.06:294][740]LogAudioMixer: Display: 1: FrontRight
+[2021.11.11-06.53.06:302][740]LogAudioMixer: Display: Using Audio Device Speakers (Synaptics HD Audio)
+[2021.11.11-06.53.06:302][740]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.11-06.53.06:302][740]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.11-06.53.06:302][740]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.11-06.53.06:303][740]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.11-06.53.06:303][740]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.11-06.53.06:303][740]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.11-06.53.06:303][740]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.11-06.53.06:303][740]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.11-06.53.06:303][740]LogInit: FAudioDevice initialized.
+[2021.11.11-06.53.06:303][740]LogAudio: Display: Audio Device (ID: 2) registered with world 'LousyFirefighter_PERSISTENT'.
+[2021.11.11-06.53.06:311][740]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.11-06.53.06:320][740]LogWorld: Bringing World /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT up for play (max tick rate 0) at 2021.11.11-14.53.06
+[2021.11.11-06.53.06:320][740]LogWorld: Bringing up level for play took: 0.001275
+[2021.11.11-06.53.06:320][740]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.11.11-06.53.06:323][740]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.11.11-06.53.06:324][740]PIE: Server logged in
+[2021.11.11-06.53.06:325][740]PIE: Play in editor total start time 0.06 seconds.
+[2021.11.11-06.53.09:504][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-06.53.09:504][103]LogWorld: BeginTearingDown for /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT
+[2021.11.11-06.53.09:505][103]LogWorld: UWorld::CleanupWorld for LousyFirefighter_PERSISTENT, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-06.53.09:505][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-06.53.09:512][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.11-06.53.09:524][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-06.53.09:528][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.11-06.53.09:529][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-06.53.09:530][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-06.53.09:531][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-06.53.09:533][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.11.11-06.53.09:562][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.11-06.53.09:585][107]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.11.11-06.53.12:341][395]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.11.11-06.53.21:884][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.11-06.53.21:884][469]PIE: New page: PIE session: LousyFirefighter_PERSISTENT (Nov 11, 2021, 10:53:21 PM)
+[2021.11.11-06.53.21:884][469]LogPlayLevel: Creating play world package: /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT
+[2021.11.11-06.53.21:892][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007691s)
+[2021.11.11-06.53.21:893][469]LogAIModule: Creating AISystem for world LousyFirefighter_PERSISTENT
+[2021.11.11-06.53.21:893][469]LogPlayLevel: PIE: World Init took: (0.001259s)
+[2021.11.11-06.53.21:893][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT to /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT (0.009044s)
+[2021.11.11-06.53.21:912][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.11.11-06.53.21:913][469]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.11-06.53.21:914][469]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.11-06.53.21:914][469]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.11-06.53.21:914][469]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.11-06.53.21:914][469]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.11-06.53.21:914][469]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.11-06.53.21:914][469]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.11-06.53.21:914][469]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.11-06.53.21:914][469]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.11-06.53.21:914][469]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.11-06.53.21:914][469]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.11-06.53.21:914][469]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.11-06.53.21:914][469]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.11-06.53.21:918][469]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.11-06.53.21:918][469]LogAudioMixer: Display: 1: FrontRight
+[2021.11.11-06.53.21:923][469]LogAudioMixer: Display: Using Audio Device Speakers (Synaptics HD Audio)
+[2021.11.11-06.53.21:923][469]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.11-06.53.21:923][469]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.11-06.53.21:923][469]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.11-06.53.21:923][469]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.11-06.53.21:923][469]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.11-06.53.21:923][469]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.11-06.53.21:924][469]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.11-06.53.21:924][469]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.11-06.53.21:925][469]LogInit: FAudioDevice initialized.
+[2021.11.11-06.53.21:925][469]LogAudio: Display: Audio Device (ID: 3) registered with world 'LousyFirefighter_PERSISTENT'.
+[2021.11.11-06.53.21:933][469]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.11-06.53.21:941][469]LogWorld: Bringing World /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT up for play (max tick rate 0) at 2021.11.11-14.53.21
+[2021.11.11-06.53.21:941][469]LogWorld: Bringing up level for play took: 0.001115
+[2021.11.11-06.53.21:941][469]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.11.11-06.53.21:943][469]PIE: Server logged in
+[2021.11.11-06.53.21:944][469]PIE: Play in editor total start time 0.061 seconds.
+[2021.11.11-06.53.23:405][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-06.53.23:405][629]LogWorld: BeginTearingDown for /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT
+[2021.11.11-06.53.23:406][629]LogWorld: UWorld::CleanupWorld for LousyFirefighter_PERSISTENT, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-06.53.23:406][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-06.53.23:411][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.11-06.53.23:438][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-06.53.23:443][629]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.11-06.53.23:443][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-06.53.23:444][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-06.53.23:446][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-06.53.23:448][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.11.11-06.53.23:475][630]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.11.11-06.53.23:481][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
