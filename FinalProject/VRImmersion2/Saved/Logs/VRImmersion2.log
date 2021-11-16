@@ -1304,3 +1304,486 @@ Reference List:
 [2021.11.16-09.08.30:255][286]LogSavePackage: Moving '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Saved/LousyFirefighter_SECTION010A3DA28C4C2081553B316DBF672118EF.tmp' to '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Content/VRImmersion/Maps/LousyFirefighter_SECTION01.umap'
 [2021.11.16-09.08.30:290][286]AssetCheck: New page: Asset Save: LousyFirefighter_SECTION01
 [2021.11.16-09.08.30:290][286]LogContentValidation: Display: Validating World /Game/VRImmersion/Maps/LousyFirefighter_SECTION01.LousyFirefighter_SECTION01
+[2021.11.16-09.09.25:269][348]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{9f5fe6fe-fd4b-42f0-a06e-0eb260785235}.
+[2021.11.16-09.09.25:269][348]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.16-09.09.25:275][348]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.09.25:275][348]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.11.56:939][495]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.16-09.11.56:957][495]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.16-09.11.56:973][495]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.16-09.12.01:732][ 46]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_CollisionHands
+[2021.11.16-09.12.01:736][ 46]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.16-09.12.04:269][322]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRImmersion/Blueprints/BP_CollisionHands.BP_CollisionHands
+[2021.11.16-09.12.04:564][322]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.11.16-09.12.35:901][107]LogSlate: Took 0.001319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.16-09.14.29:822][  1]LogSlate: Window 'BP_CollisionHands' being destroyed
+[2021.11.16-09.14.29:831][  1]LogSlate: Window 'BP_CollisionHands' being destroyed
+[2021.11.16-09.14.29:834][  1]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-09.14.29:834][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-09.14.39:393][ 26]LogActorFactory: Actor Factory created Cylinder
+[2021.11.16-09.14.39:700][ 52]LogActorFactory: Actor Factory created Cylinder
+[2021.11.16-09.14.48:778][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.16-09.14.50:122][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.11.16-09.15.21:283][176]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2021.11.16-09.15.21:318][176]LogStaticMesh: Building static mesh StaticMesh...
+[2021.11.16-09.15.21:324][176]LogStaticMesh: Built static mesh [0.01s] /Game/VRImmersion/Meshes/StaticMesh.StaticMesh
+[2021.11.16-09.15.32:825][476]LogContentBrowser: Attempting asset rename: StaticMesh -> HandTemp
+[2021.11.16-09.15.32:910][476]LogSavePackage: Moving '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Saved/HandTempA9D7A00D40EC3BAAECEA06822A6B41A9.tmp' to '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Content/VRImmersion/Meshes/HandTemp.uasset'
+[2021.11.16-09.15.32:996][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.11.16-09.15.33:029][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.11.16-09.15.33:048][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.16-09.15.33:198][476]AssetCheck: New page: Asset Save: HandTemp
+[2021.11.16-09.15.33:198][476]LogContentValidation: Display: Validating StaticMesh /Game/VRImmersion/Meshes/HandTemp.HandTemp
+[2021.11.16-09.16.06:423][795]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRImmersion/Blueprints/BP_CollisionHands.BP_CollisionHands
+[2021.11.16-09.16.06:797][795]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.16-09.16.09:627][994]BlueprintLog: New page: Compile BP_CollisionHands
+[2021.11.16-09.16.09:666][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.11.16-09.16.09:704][994]LogSlate: Took 0.000759 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.16-09.16.17:190][623]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2021.11.16-09.16.59:954][866]BlueprintLog: New page: Compile BP_CollisionHands
+[2021.11.16-09.16.59:995][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.11.16-09.17.48:954][412]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2021.11.16-09.17.56:225][112]BlueprintLog: New page: Compile BP_CollisionHands
+[2021.11.16-09.17.56:266][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.11.16-09.18.31:501][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.11.16-09.18.31:554][491]LogSavePackage: Moving '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Saved/LousyFirefighter_SECTION01_Auto1B2A8680B4E33D6D0D50638A7651DE268.tmp' to '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Saved/Autosaves/Game/VRImmersion/Maps/LousyFirefighter_SECTION01_Auto1.umap'
+[2021.11.16-09.18.31:557][491]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT' took 0.084
+[2021.11.16-09.18.31:557][491]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2021.11.16-09.19.44:291][759]LogSlate: Window 'BP_CollisionHands' being destroyed
+[2021.11.16-09.19.44:300][759]LogSlate: Window 'BP_CollisionHands' being destroyed
+[2021.11.16-09.19.44:303][759]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-09.19.44:303][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-09.19.51:491][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.11.16-09.19.54:639][912]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/VRImmersion/Meshes/HandTemp.HandTemp
+[2021.11.16-09.19.54:724][912]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.16-09.19.55:010][912]LogMaterial: Display: Missing cached shadermap for HoveredFaceMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C375D6AA531AEF6CAFA8B68133AD2AD03275409E), compiling. 
+[2021.11.16-09.19.55:032][912]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Low' priority
+[2021.11.16-09.19.55:033][912]LogMaterial: Display: Missing cached shadermap for WireMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B24275C6EC718288D8864C4812A2DF12CFDDE8E0), compiling. 
+[2021.11.16-09.19.55:058][912]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.11.16-09.19.55:058][912]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.16-09.19.55:058][912]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.16-09.19.55:058][912]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.16-09.19.55:058][912]LogShaderCompilers: Display: Started 11 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.19.55:058][912]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2021.11.16-09.19.55:060][912]LogMaterial: Display: Missing cached shadermap for OverlayPointMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AA2B1A7D3168684D1F8C1F19FA267BD480ECC366), compiling. 
+[2021.11.16-09.19.55:073][912]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2021.11.16-09.19.55:075][912]LogMaterial: Display: Missing cached shadermap for OverlayLineMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 253D0CCD24A34D7C0A28489751FE867DF9B0C635), compiling. 
+[2021.11.16-09.19.55:098][912]LogShaderCompilers: Display: Submitted 26 shader compile jobs with 'Low' priority
+[2021.11.16-09.19.55:100][912]LogMaterial: Display: Missing cached shadermap for HoveredGeometryMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 22A54BCB6FBCA67E96C40191EF8841660A65CC62), compiling. 
+[2021.11.16-09.19.55:108][912]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2021.11.16-09.19.56:356][983]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 84
+[2021.11.16-09.19.56:357][983]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.19.56:364][983]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.16-09.19.56:364][983]LogShaderCompilers: Display: Total job queries 95, among them cache hits 0 (0.00%)
+[2021.11.16-09.19.56:364][983]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2021.11.16-09.19.56:364][983]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2021.11.16-09.19.56:364][983]LogShaderCompilers: Display: ================================================
+[2021.11.16-09.19.56:542][985]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 74
+[2021.11.16-09.19.56:542][985]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.19.57:073][  8]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2021.11.16-09.19.57:073][  8]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.19.57:577][ 42]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2021.11.16-09.19.57:577][ 42]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.20.00:232][204]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2021.11.16-09.20.00:232][204]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.20.00:396][218]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2021.11.16-09.20.00:396][218]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.20.02:179][366]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2021.11.16-09.20.02:179][366]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.20.02:853][419]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.11.16-09.20.02:853][419]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.20.03:232][449]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.11.16-09.20.03:232][449]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.20.04:043][503]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.16-09.20.04:043][503]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.20.04:159][511]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.16-09.20.04:159][511]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.20.04:350][525]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.16-09.20.04:350][525]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.20.04:508][538]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.16-09.20.04:508][538]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.20.04:606][544]LogSlate: Window 'HandTemp' being destroyed
+[2021.11.16-09.20.04:631][544]LogSlate: Window 'HandTemp' being destroyed
+[2021.11.16-09.20.04:637][544]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-09.20.04:638][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-09.20.05:030][574]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.16-09.20.05:030][574]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.11.16-09.20.06:211][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.11.16-09.20.08:856][672]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.16-09.20.08:990][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.11.16-09.20.09:023][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.11.16-09.20.09:044][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.16-09.20.10:294][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.11.16-09.20.11:937][999]Cmd: DELETE
+[2021.11.16-09.20.11:938][999]Cmd: ACTOR DELETE
+[2021.11.16-09.20.11:957][999]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-09.20.11:976][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.16-09.20.11:978][999]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2021.11.16-09.20.13:665][169]LogActorFactory: Actor Factory created Cube
+[2021.11.16-09.20.13:821][176]LogActorFactory: Actor Factory created Cube
+[2021.11.16-09.20.47:689][696]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2021.11.16-09.20.47:739][696]LogStaticMesh: Building static mesh SM_HandCollision...
+[2021.11.16-09.20.47:742][696]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/SM_HandCollision.SM_HandCollision
+[2021.11.16-09.20.51:145][ 14]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/SM_HandCollision.SM_HandCollision
+[2021.11.16-09.20.57:854][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_HandCollision" FILE="../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Content/Meshes/SM_HandCollision.uasset" SILENT=true
+[2021.11.16-09.20.57:859][564]LogSavePackage: Moving '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Saved/SM_HandCollision3C25CC464B8324E6B4DD689CCE828FA1.tmp' to '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Content/Meshes/SM_HandCollision.uasset'
+[2021.11.16-09.20.57:896][564]AssetCheck: New page: Asset Save: SM_HandCollision
+[2021.11.16-09.20.57:896][564]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/SM_HandCollision.SM_HandCollision
+[2021.11.16-09.21.07:613][570]LogSlate: Window 'SM_HandCollision' being destroyed
+[2021.11.16-09.21.07:619][570]LogSlate: Window 'SM_HandCollision' being destroyed
+[2021.11.16-09.21.07:623][570]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-09.21.07:623][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-09.21.08:744][690]LogTemp: Repeating last play command: VR Preview
+[2021.11.16-09.21.08:749][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.16-09.21.08:751][690]PIE: New page: PIE session: LousyFirefighter_PERSISTENT (Nov 17, 2021, 1:21:08 AM)
+[2021.11.16-09.21.08:752][690]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.16-09.21.08:753][690]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.16-09.21.08:753][690]LogPlayLevel: Creating play world package: /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT
+[2021.11.16-09.21.08:767][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013733s)
+[2021.11.16-09.21.08:768][690]LogAIModule: Creating AISystem for world LousyFirefighter_PERSISTENT
+[2021.11.16-09.21.08:768][690]LogPlayLevel: PIE: World Init took: (0.001442s)
+[2021.11.16-09.21.08:768][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT to /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT (0.015341s)
+[2021.11.16-09.21.08:794][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.11.16-09.21.08:799][690]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.16-09.21.08:799][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.16-09.21.08:799][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.16-09.21.08:799][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.16-09.21.08:799][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.16-09.21.08:799][690]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.16-09.21.08:799][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.16-09.21.08:799][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.16-09.21.08:799][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.16-09.21.08:800][690]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.16-09.21.08:800][690]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.16-09.21.08:800][690]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.16-09.21.08:800][690]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.16-09.21.08:803][690]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.21.08:803][690]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.21.08:804][690]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.21.08:804][690]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.21.08:804][690]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.21.08:804][690]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.21.08:805][690]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.21.08:805][690]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.21.08:806][690]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.21.08:806][690]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.21.08:808][690]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.21.08:808][690]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.21.08:820][690]LogAudioMixer: Display: Using Audio Device Headphones (Rift Audio)
+[2021.11.16-09.21.08:820][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.16-09.21.08:820][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.16-09.21.08:820][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.16-09.21.08:821][690]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.16-09.21.08:821][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.16-09.21.08:821][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.16-09.21.08:822][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.16-09.21.08:822][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.16-09.21.08:822][690]LogInit: FAudioDevice initialized.
+[2021.11.16-09.21.08:822][690]LogAudio: Display: Audio Device (ID: 2) registered with world 'LousyFirefighter_PERSISTENT'.
+[2021.11.16-09.21.08:833][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.16-09.21.08:838][690]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2021.11.16-09.21.09:446][690]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.16-09.21.09:450][690]LogWorld: Bringing World /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT up for play (max tick rate 0) at 2021.11.16-17.21.09
+[2021.11.16-09.21.09:452][690]LogWorld: Bringing up level for play took: 0.004170
+[2021.11.16-09.21.09:452][690]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.11.16-09.21.09:455][690]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.11.16-09.21.09:460][690]PIE: Server logged in
+[2021.11.16-09.21.09:462][690]PIE: Play in editor total start time 0.713 seconds.
+[2021.11.16-09.21.09:463][690]LogEngine: Changing dynamic resolution state.
+[2021.11.16-09.21.09:505][690]LogRenderer: Warning: Resizing VR buffer to 2688 by 1600
+[2021.11.16-09.21.09:505][690]LogRenderer: Reallocating scene render targets to support 2688x1600 Format 10 NumSamples 1 (Frame:1).
+[2021.11.16-09.21.09:505][690]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2021.11.16-09.21.09:873][692]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.11.16-09.21.19:958][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.16-09.21.19:958][621]LogWorld: BeginTearingDown for /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT
+[2021.11.16-09.21.20:018][621]LogSlate: Window 'VRImmersion2 Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.11.16-09.21.20:081][621]LogWorld: UWorld::CleanupWorld for LousyFirefighter_PERSISTENT, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-09.21.20:082][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-09.21.20:091][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.16-09.21.20:114][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-09.21.20:143][621]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.16-09.21.20:155][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.16-09.21.20:156][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.16-09.21.20:241][621]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.11.16-09.21.20:270][622]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.11.16-09.21.20:393][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.11.16-09.21.20:393][622]LogEngine: Changing dynamic resolution state.
+[2021.11.16-09.21.24:217][ 48]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.11.16-09.21.25:268][154]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.16-09.21.25:659][154]LogScript: Warning: Accessed None trying to read property MotionController_R
+	ThirdPerson_AnimBP_C /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.21.25:659][154]LogScript: Warning: Accessed None trying to read property MotionController_L
+	ThirdPerson_AnimBP_C /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.21.45:566][783]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_9 via property MotionController_R, but TRASH_MotionControllerComponent_9 is pending kill
+	ThirdPerson_AnimBP_C /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.21.45:566][783]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_10 via property MotionController_L, but TRASH_MotionControllerComponent_10 is pending kill
+	ThirdPerson_AnimBP_C /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.21.45:569][783]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_3 via property MotionController_R, but TRASH_MotionControllerComponent_3 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.21.45:569][783]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_4 via property MotionController_L, but TRASH_MotionControllerComponent_4 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.21.45:570][783]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_9 via property MotionController_R, but TRASH_MotionControllerComponent_9 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.21.45:570][783]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_10 via property MotionController_L, but TRASH_MotionControllerComponent_10 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.21.54:568][370]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_15 via property MotionController_R, but TRASH_MotionControllerComponent_15 is pending kill
+	ThirdPerson_AnimBP_C /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.21.54:568][370]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_14 via property MotionController_L, but TRASH_MotionControllerComponent_14 is pending kill
+	ThirdPerson_AnimBP_C /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.21.54:570][370]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_11 via property MotionController_R, but TRASH_MotionControllerComponent_11 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.21.54:570][370]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_9 via property MotionController_L, but TRASH_MotionControllerComponent_9 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.21.54:571][370]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_24 via property MotionController_R, but TRASH_MotionControllerComponent_24 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.21.54:571][370]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_21 via property MotionController_L, but TRASH_MotionControllerComponent_21 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.22.24:490][335]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.SM_HandCollisionL has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.11.16-09.22.24:493][335]LogPhysics: Warning: Scale for /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT:PersistentLevel.ThirdPersonCharacter_167.SM_HandCollisionL has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.11.16-09.22.24:493][335]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.SM_HandCollisionL has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.11.16-09.22.24:504][336]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.SM_HandCollisionL has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.11.16-09.22.24:505][336]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.SM_HandCollisionL has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.11.16-09.22.24:505][336]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.SM_HandCollisionL has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.11.16-09.22.24:519][337]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.SM_HandCollisionL has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.11.16-09.22.24:519][337]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.SM_HandCollisionL has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.11.16-09.22.24:519][337]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.SM_HandCollisionL has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.11.16-09.22.24:532][338]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.SM_HandCollisionL has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.11.16-09.22.24:533][338]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.SM_HandCollisionL has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.11.16-09.22.24:533][338]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.SM_HandCollisionL has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.11.16-09.22.24:547][339]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.SM_HandCollisionL has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.11.16-09.22.24:547][339]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.SM_HandCollisionL has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.11.16-09.22.26:649][495]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.16-09.22.43:332][742]Cmd: MODE SCALEGRID=0
+[2021.11.16-09.22.57:052][787]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.11.16-09.22.57:097][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_5 via property MotionController_R, but TRASH_MotionControllerComponent_5 is pending kill
+	ThirdPerson_AnimBP_C /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.22.57:097][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_6 via property MotionController_L, but TRASH_MotionControllerComponent_6 is pending kill
+	ThirdPerson_AnimBP_C /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.22.57:099][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_7 via property MotionController_R, but TRASH_MotionControllerComponent_7 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.22.57:099][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_6 via property MotionController_L, but TRASH_MotionControllerComponent_6 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.22.57:105][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_5 via property MotionController_R, but TRASH_MotionControllerComponent_5 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.22.57:105][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_6 via property MotionController_L, but TRASH_MotionControllerComponent_6 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.22.57:238][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.11.16-09.22.57:240][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_6 via property MotionController_R, but TRASH_MotionControllerComponent_6 is pending kill
+	ThirdPerson_AnimBP_C /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.22.57:240][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_5 via property MotionController_L, but TRASH_MotionControllerComponent_5 is pending kill
+	ThirdPerson_AnimBP_C /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.22.57:242][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_6 via property MotionController_R, but TRASH_MotionControllerComponent_6 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.22.57:242][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_5 via property MotionController_L, but TRASH_MotionControllerComponent_5 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.22.57:243][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_6 via property MotionController_R, but TRASH_MotionControllerComponent_6 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.22.57:243][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_5 via property MotionController_L, but TRASH_MotionControllerComponent_5 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.22.57:249][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_13 via property MotionController_R, but TRASH_MotionControllerComponent_13 is pending kill
+	ThirdPerson_AnimBP_C /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.22.57:249][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_14 via property MotionController_L, but TRASH_MotionControllerComponent_14 is pending kill
+	ThirdPerson_AnimBP_C /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.22.57:251][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_13 via property MotionController_R, but TRASH_MotionControllerComponent_13 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D1
+[2021.11.16-09.22.57:251][787]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_14 via property MotionController_L, but TRASH_MotionControllerComponent_14 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:038F
+[2021.11.16-09.23.04:192][263]LogSavePackage: Moving '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Saved/ThirdPersonCharacter3F416AEB41602EA0182E04B8FE06224C.tmp' to '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.16-09.23.04:217][263]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.16-09.23.04:217][263]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.16-09.23.05:175][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.11.16-09.23.05:226][327]LogSavePackage: Moving '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Saved/LousyFirefighter_SECTION01412131F7418B5FBE552F9FB9DFD20FAF.tmp' to '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Content/VRImmersion/Maps/LousyFirefighter_SECTION01.umap'
+[2021.11.16-09.23.05:252][327]AssetCheck: New page: Asset Save: LousyFirefighter_SECTION01
+[2021.11.16-09.23.05:253][327]LogContentValidation: Display: Validating World /Game/VRImmersion/Maps/LousyFirefighter_SECTION01.LousyFirefighter_SECTION01
+[2021.11.16-09.23.07:439][503]LogTemp: Repeating last play command: VR Preview
+[2021.11.16-09.23.07:447][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.16-09.23.07:447][503]LogHMD: Initializing OVRPlugin session
+[2021.11.16-09.23.07:551][503]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2021.11.16-09.23.07:551][503]PIE: New page: PIE session: LousyFirefighter_PERSISTENT (Nov 17, 2021, 1:23:07 AM)
+[2021.11.16-09.23.07:551][503]LogPlayLevel: Creating play world package: /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT
+[2021.11.16-09.23.07:576][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024474s)
+[2021.11.16-09.23.07:577][503]LogAIModule: Creating AISystem for world LousyFirefighter_PERSISTENT
+[2021.11.16-09.23.07:578][503]LogPlayLevel: PIE: World Init took: (0.001636s)
+[2021.11.16-09.23.07:578][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT to /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT (0.026313s)
+[2021.11.16-09.23.07:605][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.11.16-09.23.07:606][503]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.16-09.23.07:606][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.16-09.23.07:606][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.16-09.23.07:606][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.16-09.23.07:606][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.16-09.23.07:606][503]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.16-09.23.07:606][503]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.16-09.23.07:606][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.16-09.23.07:606][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.16-09.23.07:607][503]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.16-09.23.07:607][503]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.16-09.23.07:607][503]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.16-09.23.07:607][503]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.16-09.23.07:609][503]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.23.07:609][503]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.23.07:610][503]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.23.07:610][503]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.23.07:611][503]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.23.07:611][503]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.23.07:612][503]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.23.07:612][503]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.23.07:613][503]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.23.07:613][503]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.23.07:615][503]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.23.07:615][503]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.23.07:625][503]LogAudioMixer: Display: Using Audio Device Headphones (Rift Audio)
+[2021.11.16-09.23.07:626][503]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.16-09.23.07:626][503]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.16-09.23.07:626][503]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.16-09.23.07:626][503]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.16-09.23.07:626][503]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.16-09.23.07:626][503]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.16-09.23.07:628][503]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.16-09.23.07:628][503]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.16-09.23.07:628][503]LogInit: FAudioDevice initialized.
+[2021.11.16-09.23.07:628][503]LogAudio: Display: Audio Device (ID: 3) registered with world 'LousyFirefighter_PERSISTENT'.
+[2021.11.16-09.23.07:641][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.16-09.23.07:648][503]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2021.11.16-09.23.08:260][503]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.16-09.23.08:264][503]LogWorld: Bringing World /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT up for play (max tick rate 0) at 2021.11.16-17.23.08
+[2021.11.16-09.23.08:265][503]LogWorld: Bringing up level for play took: 0.003650
+[2021.11.16-09.23.08:265][503]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.11.16-09.23.08:272][503]PIE: Server logged in
+[2021.11.16-09.23.08:277][503]PIE: Play in editor total start time 0.831 seconds.
+[2021.11.16-09.23.08:279][503]LogEngine: Changing dynamic resolution state.
+[2021.11.16-09.23.08:294][503]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2021.11.16-09.23.08:416][505]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.11.16-09.25.20:570][947]LogSavePackage: Moving '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Saved/ThirdPersonCharacterE216F1584A36D1F4261A38A5709C5C21.tmp' to '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.16-09.25.20:585][947]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.16-09.25.20:585][947]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.16-09.25.29:777][350]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.11.16-09.25.29:786][350]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.11.16-09.25.29:790][350]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-09.25.29:790][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-09.25.37:583][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.16-09.25.37:583][793]LogWorld: BeginTearingDown for /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT
+[2021.11.16-09.25.37:583][793]LogSlate: Window 'VRImmersion2 Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.11.16-09.25.37:631][793]LogWorld: UWorld::CleanupWorld for LousyFirefighter_PERSISTENT, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-09.25.37:632][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-09.25.37:641][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.16-09.25.37:682][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-09.25.37:717][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.16-09.25.37:717][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.16-09.25.37:740][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.11.16-09.25.37:777][794]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.11.16-09.25.37:810][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.11.16-09.25.37:811][794]LogEngine: Changing dynamic resolution state.
+[2021.11.16-09.25.40:940][135]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.16-09.26.04:093][677]LogSlate: Window 'Save Asset As' being destroyed
+[2021.11.16-09.26.28:241][ 93]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.11.16-09.26.28:366][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.11.16-09.26.28:840][114]LogSavePackage: Moving '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Saved/ThirdPersonCharacterD85C381D4AB964C2A1955B9C1DB7E382.tmp' to '../../../../../../Users/f.abdullah/Documents/GitHub/DES315/FinalProject/VRImmersion2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.16-09.26.28:852][114]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.16-09.26.28:853][114]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.16-09.26.37:408][997]LogTemp: Repeating last play command: VR Preview
+[2021.11.16-09.26.37:413][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.16-09.26.37:413][997]LogHMD: Initializing OVRPlugin session
+[2021.11.16-09.26.37:517][997]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2021.11.16-09.26.37:517][997]PIE: New page: PIE session: LousyFirefighter_PERSISTENT (Nov 17, 2021, 1:26:37 AM)
+[2021.11.16-09.26.37:517][997]LogPlayLevel: Creating play world package: /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT
+[2021.11.16-09.26.37:532][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014780s)
+[2021.11.16-09.26.37:534][997]LogAIModule: Creating AISystem for world LousyFirefighter_PERSISTENT
+[2021.11.16-09.26.37:534][997]LogPlayLevel: PIE: World Init took: (0.001601s)
+[2021.11.16-09.26.37:534][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRImmersion/Maps/LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT to /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT (0.016604s)
+[2021.11.16-09.26.37:567][997]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.11.16-09.26.37:569][997]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.11.16-09.26.37:569][997]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.16-09.26.37:569][997]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.16-09.26.37:569][997]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.16-09.26.37:569][997]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.16-09.26.37:569][997]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.16-09.26.37:569][997]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.16-09.26.37:569][997]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.16-09.26.37:569][997]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.16-09.26.37:570][997]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.16-09.26.37:570][997]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.16-09.26.37:570][997]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.16-09.26.37:570][997]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.16-09.26.37:572][997]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.26.37:572][997]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.26.37:573][997]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.26.37:573][997]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.26.37:574][997]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.26.37:574][997]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.26.37:575][997]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.26.37:575][997]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.26.37:576][997]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.26.37:576][997]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.26.37:578][997]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-09.26.37:578][997]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-09.26.37:588][997]LogAudioMixer: Display: Using Audio Device Headphones (Rift Audio)
+[2021.11.16-09.26.37:589][997]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.16-09.26.37:589][997]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.16-09.26.37:589][997]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.16-09.26.37:589][997]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.16-09.26.37:589][997]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.16-09.26.37:589][997]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.16-09.26.37:590][997]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.16-09.26.37:590][997]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.16-09.26.37:590][997]LogInit: FAudioDevice initialized.
+[2021.11.16-09.26.37:590][997]LogAudio: Display: Audio Device (ID: 4) registered with world 'LousyFirefighter_PERSISTENT'.
+[2021.11.16-09.26.37:605][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.16-09.26.37:612][997]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2021.11.16-09.26.38:152][997]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.16-09.26.38:156][997]LogWorld: Bringing World /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT.LousyFirefighter_PERSISTENT up for play (max tick rate 0) at 2021.11.16-17.26.38
+[2021.11.16-09.26.38:160][997]LogWorld: Bringing up level for play took: 0.005825
+[2021.11.16-09.26.38:160][997]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.11.16-09.26.38:170][997]PIE: Server logged in
+[2021.11.16-09.26.38:174][997]PIE: Play in editor total start time 0.763 seconds.
+[2021.11.16-09.26.38:176][997]LogEngine: Changing dynamic resolution state.
+[2021.11.16-09.26.38:192][997]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2021.11.16-09.26.38:309][999]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.11.16-09.27.58:579][289]Cmd: SELECT NONE
+[2021.11.16-09.28.00:497][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.16-09.28.00:497][395]LogWorld: BeginTearingDown for /Game/VRImmersion/Maps/UEDPIE_0_LousyFirefighter_PERSISTENT
+[2021.11.16-09.28.00:497][395]LogSlate: Window 'VRImmersion2 Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2021.11.16-09.28.00:552][395]LogWorld: UWorld::CleanupWorld for LousyFirefighter_PERSISTENT, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-09.28.00:552][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-09.28.00:561][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.16-09.28.00:604][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-09.28.00:647][395]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.16-09.28.00:649][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.16-09.28.00:651][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.16-09.28.00:671][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.11.16-09.28.00:714][396]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.11.16-09.28.00:753][396]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.11.16-09.28.00:755][396]LogEngine: Changing dynamic resolution state.
+[2021.11.16-09.28.22:043][ 35]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.11.16-09.28.22:049][ 35]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.11.16-09.28.22:052][ 35]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-09.28.22:052][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
