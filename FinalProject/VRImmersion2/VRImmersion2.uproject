@@ -19,6 +19,10 @@
 				"Win64",
 				"Mac"
 			]
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
 		}
 	]
 }
